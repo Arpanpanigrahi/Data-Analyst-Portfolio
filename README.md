@@ -12,7 +12,7 @@ Crafted with HTML, CSS, and JavaScript, my portfolio is a showcase of responsive
 
 
 ## 🔗 Portfolio Link
-https://arpanpanigrahi.github.io/
+https://arpanpanigrahi.github.io/Data-Analyst-Portfolio/
 
 
 
